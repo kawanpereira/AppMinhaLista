@@ -1,8 +1,10 @@
-package devandroid.kawan.appminhalista;
+package devandroid.kawan.appminhalista.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.kawan.appminhalista.R;
 
 public class MainActivity extends AppCompatActivity {
 
